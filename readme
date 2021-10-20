@@ -1,0 +1,11 @@
+Git actions
+
+Workflows - > jobs
+
+Runners - machine with github actions runner installed
+responsible for running job whenever an event happens and display results
+
+Self hosted runners - you manager and maintain - more memory-larger jobs
+
+
+yaml format - data serializ. lang
